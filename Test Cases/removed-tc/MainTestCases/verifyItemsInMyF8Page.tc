@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyItemsInMyF8Page</name>
+   <tag></tag>
+   <comment>Given that user has started an application</comment>
+   <testCaseGuid>6308fc0f-66e2-49da-9cb9-c537c6fcbd2d</testCaseGuid>
+</TestCaseEntity>

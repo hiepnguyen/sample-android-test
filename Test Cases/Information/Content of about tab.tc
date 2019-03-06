@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Content of about tab</name>
+   <tag></tag>
+   <comment>Given that user has started an application</comment>
+   <testCaseGuid>2be2d2bc-0cb1-45d2-8517-08379febeabf</testCaseGuid>
+</TestCaseEntity>

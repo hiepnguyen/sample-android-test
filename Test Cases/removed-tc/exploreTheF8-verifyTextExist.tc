@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>exploreTheF8-verifyTextExist</name>
+   <tag></tag>
+   <comment>Given that user has started an application</comment>
+   <testCaseGuid>6b7e307e-2efc-4ddb-a7a8-78a752ed5a29</testCaseGuid>
+</TestCaseEntity>

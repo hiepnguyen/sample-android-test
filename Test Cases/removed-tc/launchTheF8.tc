@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>launchTheF8</name>
+   <tag></tag>
+   <comment>Story: Verify correct alarm message
+Given that user has started an application
+start app from folder which defined in global variable
+the common keyword will start appium server as default port then need to close application after test completed 
+Test Navigates the application to Activity form</comment>
+   <testCaseGuid>5981d09c-a51a-40b5-b434-e93a4d1b61c2</testCaseGuid>
+</TestCaseEntity>

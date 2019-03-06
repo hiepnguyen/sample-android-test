@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>exploreTheF8</name>
+   <tag></tag>
+   <comment>Story: Verify correct alarm message
+Given that user has started an application
+And he navigates the application to Activity form</comment>
+   <testCaseGuid>0c3e2370-43f8-4ca3-bde3-498ca7a440d1</testCaseGuid>
+</TestCaseEntity>

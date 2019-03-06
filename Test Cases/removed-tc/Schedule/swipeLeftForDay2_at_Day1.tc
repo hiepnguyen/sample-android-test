@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>at the Schedule Tab, swipe to navigate the page of Day1</description>
+   <name>swipeLeftForDay2_at_Day1</name>
+   <tag></tag>
+   <comment>start app from folder which defined in global variable - the common keyword will start appium server as default port then need to close application after test completed 
+temporary replace the swipe by tap for troubleshooting purpose</comment>
+   <testCaseGuid>24a78bd4-cde9-45ec-a4cf-4e4e0092e640</testCaseGuid>
+</TestCaseEntity>
